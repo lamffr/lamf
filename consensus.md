@@ -24,6 +24,10 @@
  * 8C0ED56889A2736BA2ED069B8EE4498B270F1B99 : [sbres](/keys/sbres.asc)
  * 24F084959A94AF98AE13C544A492AC2ADD730139 : [Adrian](/keys/adrian.asc)
  * 3C3EFE44A9887485F5EA8C411B791D23288DDB45 : [Gilles Cadignan](/keys/gilles_cadignan.asc)
+ * 291237F37A2C023CADBED52513288EAB01713428 : [davout](/keys/davout.asc)
+ * 509AF10301AC76B16A6B87EA3002A9ADA477444A : [mrj1m](/keys/mrj1m.asc)
+ * 6FB41E840687AFA0B801599F5DFD658EEA883C12 : [sosthene](/keys/sosthene.asc)
+ * FB8E328E1B05949CA40B594C63BA3695A199B15D : [a_ferron](/keys/a_ferron.asc)
 
 ## Contact (Don’t Trust. Verify.)
 
