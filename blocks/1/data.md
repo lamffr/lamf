@@ -1,9 +1,9 @@
-# Block 0
+# Block 1
 
 ## Infos :
  * Hash précédent : 375a3f7f9faeec43ebc09d671cdc9c689d45b4626a11522ce88595c1cb160691
- * Date : 4 Mai 2018 - 20:00
- * Dernier bloc Bitcoin : #521211 (000000000000000000421a6656c4f5957c688770a1b9bf2891f63f9c321a98de) 
+ * Date : 11 Septembre 2018 - 14:07
+ * Dernier bloc Bitcoin : #540946 (00000000000000000004f9bdcc05b70f5027ab30fa3b3d5cd97c13b3ce168202) 
 
 ## Proposition(s) :
 

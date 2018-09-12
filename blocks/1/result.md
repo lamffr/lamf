@@ -1,12 +1,11 @@
 # Block 1
 
 ## Infos :
- * Hash : d618c29a1f835fd63061230e2dbdb0612b441163fe92276f3c9debafdb15037d
+ * Hash : 610c2bb1426d66d5b1d0744023ba09143df16308c2b0e15084e82968b26af784
  * Votants : 2
 
 ## Résultat(s) :
 
 ### 1 - Acceptation de nouveaux membres
 
-ACK : 2
-NACK : 0
+ACK
